@@ -2,7 +2,7 @@ package taskrunner
 
 import (
 	"fmt"
-	"github.com/ocelot-cloud/task-runner/platform"
+	"github.com/ocelot-cloud/taskrunner/platform"
 	"os"
 	"os/exec"
 	"os/signal"
